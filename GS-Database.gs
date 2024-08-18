@@ -1,3 +1,4 @@
+//Link Google Sheet: https://docs.google.com/spreadsheets/d/1gwnUtLEAK3he_U9P8SbUWoiIxxJgPlH2IRGpL-qHtBk/edit?usp=sharing
 // Enter Spreadsheet ID here
 var SS = SpreadsheetApp.openById('1gwnUtLEAK3he_U9P8SbUWoiIxxJgPlH2IRGpL-qHtBk');
 var timezone = "asia/Kuala_Lumpur";
